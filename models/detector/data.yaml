@@ -1,0 +1,21 @@
+path: C:/beyond-detection/data/merged
+train: C:/beyond-detection/data/splits/train.txt
+val: C:/beyond-detection/data/splits/val.txt
+test: C:/beyond-detection/data/splits/test.txt
+nc: 15
+names:
+  - person
+  - rickshaw
+  - rickshaw van
+  - auto rickshaw
+  - truck
+  - pickup truck
+  - private car
+  - motorcycle
+  - bicycle
+  - bus
+  - micro bus
+  - covered van
+  - human hauler
+  - pothole
+  - traffic cone

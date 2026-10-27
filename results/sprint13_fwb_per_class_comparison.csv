@@ -1,0 +1,61 @@
+class,metric,B1,B1+FWB,delta_FWB_minus_B1,interpretation,status
+auto rickshaw,precision,0.93235599983826078,,,pending,pending_training_and_evaluation
+auto rickshaw,recall,0.92105263157894735,,,pending,pending_training_and_evaluation
+auto rickshaw,mAP50,0.96487184624298916,,,pending,pending_training_and_evaluation
+auto rickshaw,mAP50-95,0.88081698118238272,,,pending,pending_training_and_evaluation
+bicycle,precision,0.90958549598402605,,,pending,pending_training_and_evaluation
+bicycle,recall,0.83143711236773421,,,pending,pending_training_and_evaluation
+bicycle,mAP50,0.92011121254345285,,,pending,pending_training_and_evaluation
+bicycle,mAP50-95,0.74549365324841455,,,pending,pending_training_and_evaluation
+bus,precision,0.96255850013462541,,,pending,pending_training_and_evaluation
+bus,recall,0.89681814291617201,,,pending,pending_training_and_evaluation
+bus,mAP50,0.97606303786358073,,,pending,pending_training_and_evaluation
+bus,mAP50-95,0.87201989744163588,,,pending,pending_training_and_evaluation
+covered van,precision,0.87698687773264383,,,pending,pending_training_and_evaluation
+covered van,recall,0.91666666666666663,,,pending,pending_training_and_evaluation
+covered van,mAP50,0.96640281533874195,,,pending,pending_training_and_evaluation
+covered van,mAP50-95,0.85411009093880941,,,pending,pending_training_and_evaluation
+human hauler,precision,0.94831144715105764,,,pending,pending_training_and_evaluation
+human hauler,recall,0.94099441894701885,,,pending,pending_training_and_evaluation
+human hauler,mAP50,0.98089077589077578,,,pending,pending_training_and_evaluation
+human hauler,mAP50-95,0.8729265059540795,,,pending,pending_training_and_evaluation
+micro bus,precision,0.96043135184632245,,,pending,pending_training_and_evaluation
+micro bus,recall,0.92467568266860423,,,pending,pending_training_and_evaluation
+micro bus,mAP50,0.97601590600286048,,,pending,pending_training_and_evaluation
+micro bus,mAP50-95,0.90703792129895233,,,pending,pending_training_and_evaluation
+motorcycle,precision,0.94577008433106402,,,pending,pending_training_and_evaluation
+motorcycle,recall,0.89084613793246537,,,pending,pending_training_and_evaluation
+motorcycle,mAP50,0.97074329265970682,,,pending,pending_training_and_evaluation
+motorcycle,mAP50-95,0.78036217572994948,,,pending,pending_training_and_evaluation
+person,precision,0.90788469382404891,,,pending,pending_training_and_evaluation
+person,recall,0.77251184834123221,,,pending,pending_training_and_evaluation
+person,mAP50,0.91066297393031082,,,pending,pending_training_and_evaluation
+person,mAP50-95,0.71108261795543237,,,pending,pending_training_and_evaluation
+pickup truck,precision,0.96128911662544958,,,pending,pending_training_and_evaluation
+pickup truck,recall,0.90769230769230769,,,pending,pending_training_and_evaluation
+pickup truck,mAP50,0.95565729050064707,,,pending,pending_training_and_evaluation
+pickup truck,mAP50-95,0.8517703270376803,,,pending,pending_training_and_evaluation
+pothole,precision,0.70029583587844191,,,pending,pending_training_and_evaluation
+pothole,recall,0.53162198257768878,,,pending,pending_training_and_evaluation
+pothole,mAP50,0.64652186439216552,,,pending,pending_training_and_evaluation
+pothole,mAP50-95,0.380057055386812,,,pending,pending_training_and_evaluation
+private car,precision,0.92044391043799101,,,pending,pending_training_and_evaluation
+private car,recall,0.91620557605699127,,,pending,pending_training_and_evaluation
+private car,mAP50,0.97400533019423197,,,pending,pending_training_and_evaluation
+private car,mAP50-95,0.8691341178929578,,,pending,pending_training_and_evaluation
+rickshaw,precision,0.92451425605356552,,,pending,pending_training_and_evaluation
+rickshaw,recall,0.90434012400354291,,,pending,pending_training_and_evaluation
+rickshaw,mAP50,0.97504945342166582,,,pending,pending_training_and_evaluation
+rickshaw,mAP50-95,0.86506603692981476,,,pending,pending_training_and_evaluation
+rickshaw van,precision,0.83039762328028355,,,pending,pending_training_and_evaluation
+rickshaw van,recall,0.74698795180722888,,,pending,pending_training_and_evaluation
+rickshaw van,mAP50,0.83432167334277296,,,pending,pending_training_and_evaluation
+rickshaw van,mAP50-95,0.62914872777032449,,,pending,pending_training_and_evaluation
+traffic cone,precision,0.82394371164042668,,,pending,pending_training_and_evaluation
+traffic cone,recall,0.84782608695652173,,,pending,pending_training_and_evaluation
+traffic cone,mAP50,0.88683315760022752,,,pending,pending_training_and_evaluation
+traffic cone,mAP50-95,0.56911565943166775,,,pending,pending_training_and_evaluation
+truck,precision,0.90568755542766888,,,pending,pending_training_and_evaluation
+truck,recall,1,,,pending,pending_training_and_evaluation
+truck,mAP50,0.99018749999999989,,,pending,pending_training_and_evaluation
+truck,mAP50-95,0.8612425604731524,,,pending,pending_training_and_evaluation

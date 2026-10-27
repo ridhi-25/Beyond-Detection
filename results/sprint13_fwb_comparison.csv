@@ -1,0 +1,9 @@
+metric,B1,B1+FWB,delta_FWB_minus_B1,interpretation,status
+Precision,0.90069709734572512,,,pending,pending_training_and_evaluation
+Recall,0.86331177803420822,,,pending,pending_training_and_evaluation
+mAP50,0.92855587532827533,,,pending,pending_training_and_evaluation
+mAP50-95,0.77662562191147111,,,pending,pending_training_and_evaluation
+Pothole AP50,0.64652186439216552,,,pending,pending_training_and_evaluation
+Traffic cone AP50,0.88683315760022752,,,pending,pending_training_and_evaluation
+Parameter count,,,,pending,pending_architecture_gate
+GFLOPs at 640,,,,pending,pending_architecture_gate

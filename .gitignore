@@ -1,0 +1,49 @@
+# Virtual environment
+.venv/
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Dataset payloads are intentionally kept outside Git.
+data/raw/
+data/merged/images/
+data/merged/labels/
+data/**/labels.cache
+data/**/*.cache
+data/*.zip
+data/*.tar.gz
+data/*.tar
+
+# Generated experiment outputs (reports and selected summary CSVs are committed).
+results/*
+!results/*.md
+!results/experiment_log.csv
+!results/sprint13_fwb_comparison.csv
+!results/sprint13_fwb_per_class_comparison.csv
+
+# Checkpoints and model artifacts
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.engine
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+*.tmp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
